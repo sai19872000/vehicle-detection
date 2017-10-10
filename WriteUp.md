@@ -118,4 +118,4 @@ I then combined all the functions and a pipeline and then tested it on all the t
 ![alt text][im14]
 
 I used this pipeline and applied to both the test video and the project video and successfully identified the vehicles
-the link for the project video is [here][]
+the link for the project video is [here][https://github.com/sai19872000/vehicle-detection/blob/master/project_video_out.mp4]
